@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello World!!! 🎒 "Hoje é só o começo". Manoelito Lima, estudante de Engenharia de Materiais 💻 Entusiasta de tecnologia e programação, 🕹 Bicho Grilo, Nerd, Game, "Moto e Mato" 🎶Rock Beer Rock! LOKO EH POCO 
 
-<!--
-**AllergicPoet/AllergicPoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<div align="center" style="display: inline_block"><br>
+  </a>
+  <img align="left" alt="Mano-C" height="70" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" alt="Mano-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<br/> 
+<br/> 
 
-Here are some ideas to get you started:
+</div>
+<br/> 
+<br/>
+<div align="center">
+  <a href="https://github.com/AllergicPoet">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllergicPoet&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllergicPoet&layout=compact&theme=cobalt)](https://github.com/AllergicPoets/github-readme-stats)
+ 
+<div align="center"> 
+  <a href="https://www.instagram.com/manoelitolima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:manoelitolima@outlook.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white  target="_blank"></a>
+  <a href="https://www.linkedin.com/in/manoelito-lima-02923044/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
