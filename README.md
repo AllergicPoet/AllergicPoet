@@ -16,6 +16,10 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=AllergicPoet&show_icons=true&theme=dracula" />
 </a>
 
+<a href="https://github.com/AllergicPoet/github-readme-stats">
+ <img align="right" alt="Mano-pic" height="150" style="border-radius:50px;" src="https://github.com/AllergicPoet/AllergicPoet/blob/main/20180722_213939.png">
+</a>
+
 <br/>
 <br/>
 
