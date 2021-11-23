@@ -2,9 +2,6 @@
 <a href="https://www.instagram.com/manoelitolima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manoelito-lima-02923044/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/@AllergicPoet" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-  
-  
   	
 
 </div>
@@ -14,6 +11,10 @@
 
 <a href="https://github.com/AllergicPoet/github-readme-stats">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=AllergicPoet&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github.com/AllergicPoet/github-readme-stats">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </a>
 
 <br/>
