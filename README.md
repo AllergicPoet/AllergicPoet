@@ -1,20 +1,22 @@
-### Hello World!!! 🎒 "Hoje é só o começo". Manoelito Lima, estudante de Engenharia de Materiais 💻 Entusiasta de tecnologia e programação, 🕹 Bicho Grilo, Nerd, Game, "Moto e Mato" 🎶Rock Beer Rock! LOKO EH POCO 
+### :octocat: Hello World!!! 🎒 "Hoje é só o começo". 
 
 </div>
 <div align="center" style="display: inline_block"><br>
   </a>
-  <img align="left" alt="Mano-C" height="70" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="left" alt="Mano-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="rigth" alt="Mano-C" height="70" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="rigth" alt="Mano-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <br/> 
 <br/> 
 
 </div>
 <br/> 
 <br/>
-<div align="center">
+<div align="left">
   <a href="https://github.com/AllergicPoet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllergicPoet&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 
+  <br/>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllergicPoet&layout=compact&theme=cobalt)](https://github.com/AllergicPoets/github-readme-stats)
  
 <div align="center"> 
