@@ -14,11 +14,13 @@
 </a>
 
 <br/>
-<br/>
+
 
 <a href="https://github.com/AllergicPoet/github-readme-stats">
  <img align="right" alt="Mano-pic" height="150" style="border-radius:50px;" src="https://github.com/AllergicPoet/AllergicPoet/blob/main/20180722_213939.png">
 </a>
+
+<br/>
 
 <a href="https://github.com/AllergicPoets/github-readme-stats">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllergicPoet&layout=compact&theme=dracula" />
