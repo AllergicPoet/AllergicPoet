@@ -22,10 +22,10 @@
 <br/>
 
 <a href="https://github.com/AllergicPoet/CProjects_Studies">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=CProjects_Studies&theme=dracula" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=CProjects_Studies&theme=dracula" />
 </a>
 <a href="https://github.com/AllergicPoet/JavaProjects_Studies">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=JavaProjects_Studies&theme=dracula" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=JavaProjects_Studies&theme=dracula" />
 </a>
   
 </div>
