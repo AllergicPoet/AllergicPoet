@@ -17,7 +17,7 @@
 
 
 <a href="https://github.com/AllergicPoet/github-readme-stats">
- <img align="right" alt="Mano-pic" height="130" style="border-radius:50px;" src="https://github.com/AllergicPoet/AllergicPoet/blob/main/20180722_213939.png">
+ <img align="right" alt="Mano-pic" height="150" style="border-radius:50px;" src="https://github.com/AllergicPoet/AllergicPoet/blob/main/AllergicPoet.png">
 </a>
 
 <br/>
