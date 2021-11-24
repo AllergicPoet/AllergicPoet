@@ -37,3 +37,13 @@
 </a>
 
 </div>
+
+<br/>
+<br/>
+
+<div>
+  <img
+    src="https://github.com/AllergicPoet/AllergicPoet/blob/main/MarioDev.gif" 
+    alt="mario dev"
+    />
+</div>
