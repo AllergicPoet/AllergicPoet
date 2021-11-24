@@ -34,24 +34,24 @@
 <a href="https://github.com/AllergicPoet/CProjects_Studies">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=CProjects_Studies&hide_border=true&theme=dracula" />
 </a>
-  
+ 
 </div>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Whats up?!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
 
-I'm Manoelito Lima, Materials Engineering Student, Problem-solving.
+I'm Manoelito Lima, Materials Engineering Student, breaking his head and Problem-solving, in constant search for quality of life, zero stress, committed to the results, in search of my professional development.
 <br/>
+ 
+- 💻 Technology and programming enthusiast. 
+- 📚 Learning Java, C and Git.
+- 🕹 Hippie, Nerd, Gamer. 
+- 🌄 Motorcycle and Bushcraft. 
+- 🎸 Rock and Beer 🍻
 
-- Manoloco problem-solving student, materials engineering student,
-- 🔭 I’m currently working on [Gama Academy](https://www.gama.academy/)
-- 💻 I am currently lLearning Java and C!
-- 🤔 I'm looking for helping with solving coding issues!
-- 📨 How to reach me: manoelitolima@outlook.com
-- 📝 See my resume by <a  target="blank" href="https://www.canva.com/design/DAEekzRUSOE/9HxYjMwhjXlyLCVIeuEoPg/view?utm_content=DAEekzRUSOE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
 
 </br>
 <br/>
