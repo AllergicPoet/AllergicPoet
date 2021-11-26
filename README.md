@@ -59,7 +59,7 @@ I'm Manoelito Lima, Materials Engineering Student, breaking his head and Problem
 
 <div align="center">
 <a href="https://github.com/AllergicPoet/github-readme-stats">
- <img align="center" alt="Mano-pic" height="100" style="border-radius:50px;" src="https://github.com/AllergicPoet/AllergicPoet/blob/main/AllergicPoet.png">
+ <img align="center" alt="Mano-pic" height="100" style="border-radius:50px;" src="https://github.com/AllergicPoet/AllergicPoet/blob/main/AllergicPoet.png"> <img align="center" alt="VSC-pic" height="50" style="border-radius:150px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </a>
 </div>
 
