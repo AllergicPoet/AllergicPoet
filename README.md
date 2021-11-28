@@ -18,8 +18,8 @@
 
 <div  align="center">
  <a href="https://github.com/AllergicPoet"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllergicPoet&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AllergicPoet&hide_border=true&theme=dracula&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllergicPoet&hide_border=true&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> &nbsp;
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AllergicPoet&hide_border=true&theme=monokai&show_icons=true"/>
 
 </div>
 
@@ -28,11 +28,11 @@
  </br>
  
 <a href="https://github.com/AllergicPoet/JavaProjects_Studies">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=JavaProjects_Studies&hide_border=true&theme=dracula" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=JavaProjects_Studies&hide_border=true&theme=monokai" />
 </a>
   
 <a href="https://github.com/AllergicPoet/CProjects_Studies">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=CProjects_Studies&hide_border=true&theme=dracula" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=CProjects_Studies&hide_border=true&theme=monokai" />
 </a>
  
 </div>
@@ -68,7 +68,7 @@ I'm Manoelito Lima, Materials Engineering Student, breaking his head and Problem
 
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllergicPoet&layout=compact&count_private=true&hide_border=true&theme=dracula&show_icons=true"> 
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllergicPoet&layout=compact&count_private=true&hide_border=true&theme=monokai&show_icons=true"> 
 </div>
 
 <p align="center">Last refresh: <b>Wednesday, November 24th 2021, 1:53:04 am UTC-4</b>. </p>
