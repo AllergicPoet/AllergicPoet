@@ -68,7 +68,8 @@ I'm Manoelito Lima, Materials Engineering Student, breaking his head and Problem
 
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllergicPoet&layout=compact&count_private=true&hide_border=true&theme=monokai&show_icons=true"> 
+  <a href="https://github.com/AllergicPoet">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllergicPoet&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
-<p align="center">Last refresh: <b>Saturday, November 27th 2021, 10:05:04 pm UTC-4</b>. </p>
+<p align="center">Last refresh: <b>Saturday, December 1th 2021, 22:50:04 pm UTC-4</b>. </p>
