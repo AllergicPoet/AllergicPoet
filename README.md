@@ -2,7 +2,6 @@
 <a href="https://www.instagram.com/manoelitolima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manoelito-lima-02923044/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/@AllergicPoet" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <embed height="60" type="audio/midi" width="144" src="modem.mp3" volume="60" loop="false" autostart="false" />
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=AllergicPoet"
     alt="visitors">
