@@ -35,7 +35,7 @@
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=CProjects_Studies&hide_border=true&theme=monokai" />
 </a>
 
-<embed height="60" type="audio/midi" width="144" src="modem.mp3" volume="60" loop="false" autostart="true" />
+<embed height="60" type="audio/midi" width="144" src="allergicpoet/modem.mp3" volume="60" loop="false" autostart="true" />
  
 </div>
 
