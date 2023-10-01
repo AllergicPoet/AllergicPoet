@@ -20,7 +20,7 @@
  <a href="https://github.com/AllergicPoet"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllergicPoet&hide_border=true&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> &nbsp;
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AllergicPoet&hide_border=true&theme=monokai&show_icons=true"/>
-  <embed height="60" type="audio/mpeg" width="144" src="modem.mp3" volume="60" loop="false" autostart="true" />
+  <embed height="60" type="audio/mpeg" width="144" src="modem.mp3" volume="60" loop="false" autostart="true"/>
 </div>
 
 <div  align="center">
