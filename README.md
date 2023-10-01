@@ -10,11 +10,7 @@
 <div>
   <img
     src="https://github.com/AllergicPoet/AllergicPoet/blob/main/MarioDev.gif" 
-    alt="mario dev" autostart="true"
-    />
-  <audio controls>
-  <source src="https://github.com/AllergicPoet/AllergicPoet/blob/main/modem.mp3" type="audio/mpeg" width="144" olume="60" loop="false" autostart="true"/>
-</audio>
+    alt="mario dev" autostart="true"/>
 </div>
 
 <br/>
