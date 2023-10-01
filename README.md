@@ -6,6 +6,11 @@
     src="https://visitor-badge.laobi.icu/badge?page_id=AllergicPoet"
     alt="visitors">
 </h1>
+
+<audio controls>
+  <source src="modem.mp3" type="audio/mpeg">
+  Seu navegador não suporta a tag de áudio.
+</audio>
   
 <div>
   <img
@@ -39,7 +44,6 @@
 ### Whats up?!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-<embed height="60" type="audio/mpeg" width="144" src="modem.mp3" volume="60" loop="false" autostart="true"/>
 
 <br/>
 
