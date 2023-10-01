@@ -29,13 +29,12 @@
  
 <a href="https://github.com/AllergicPoet/JavaProjects_Studies">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=JavaProjects_Studies&hide_border=true&theme=monokai" />
+  <embed height="60" type="audio/midi" width="144" src="modem.mp3" volume="60" loop="false" autostart="true" />
 </a>
   
 <a href="https://github.com/AllergicPoet/CProjects_Studies">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=AllergicPoet&repo=CProjects_Studies&hide_border=true&theme=monokai" />
 </a>
-
-<embed height="60" type="audio/midi" width="144" src="allergicpoet/modem.mp3" volume="60" loop="false" autostart="true" />
  
 </div>
 
