@@ -39,6 +39,7 @@
 ### Whats up?!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+<embed height="60" type="audio/mpeg" width="144" src="modem.mp3" volume="60" loop="false" autostart="true"/>
 
 <br/>
 
@@ -60,7 +61,7 @@ I'm Manoelito Lima, Materials Engineering Student, breaking his head and Problem
 <a href="https://github.com/AllergicPoet/github-readme-stats">
  <img align="center" alt="Mano-pic" height="100" style="border-radius:50px;" src="https://github.com/AllergicPoet/AllergicPoet/blob/main/AllergicPoet.png"> <img align="center" alt="VSC-pic" height="50" style="border-radius:150px" src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png"/>
 </a>
- <embed height="60" type="audio/mpeg" width="144" src="modem.mp3" volume="60" loop="false" autostart="true"/>
+
 </div>
 
 <br/>
