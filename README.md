@@ -8,8 +8,7 @@
 </h1>
 
 <audio controls>
-  <source src="https://github.com/AllergicPoet/AllergicPoet/blob/main/modem.mp3" type="audio/mpeg">
-  Seu navegador não suporta a tag de áudio.
+  <source src="https://github.com/AllergicPoet/AllergicPoet/blob/main/modem.mp3" type="audio/mpeg" width="144" olume="60" loop="false" autostart="true"/>
 </audio>
   
 <div>
